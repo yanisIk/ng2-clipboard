@@ -1,0 +1,5 @@
+/**
+ * @license Yanis Ikene v1.0.0
+ * (c) 2016 Yanis Ikene https://github.com/yanisIk/ng2-clipboard
+ * License: MIT
+ */
